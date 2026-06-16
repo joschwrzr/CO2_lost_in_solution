@@ -1,0 +1,39 @@
+project:
+  type: website
+
+
+website:
+  title: "Lost in solution"
+  navbar:
+    left:
+      - text: "About"
+        href: About.qmd
+      - text: "Correction Factors"
+        href: CorrectionFactors.qmd
+      - text: "Gas exchange kinetics"
+        href: Kinetics.qmd
+      - text: "more"
+        menu: 
+          - Abbreviations.qmd
+
+      
+
+      
+author: "Petr Čapek & Johanna Schwarzer"
+
+# Enable search
+search: true
+
+format:
+  html:
+    theme: 
+      light: minty
+      dark: solar
+    toc: true
+    toc-location: left
+
+    
+    
+
+
+

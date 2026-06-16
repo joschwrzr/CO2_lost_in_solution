@@ -1,0 +1,53 @@
+---
+title: "List of Abbreviations"
+format: html
+---
+
+# List of Abbreviations
+
+Key symbols and abbreviations used on die website, with their definitions and units.
+
+::: abbreviation-table-container
+| **Symbol** | **Description** | **Value / Units** (as defined in this document) |
+|:----------------:|:----------------:|:----------------------------------:|
+| $p$ | Atmospheric pressure | $atm$ |
+| $V$ | Headspace volume | $mL$ |
+| $n$ | Number of molecules | $mol$ |
+| $R$ | Universal gas constant | $0.082 ~ \frac{L \times atm}{mol \times K}$ |
+| $T$ | Thermodynamic temperature | $K$ |
+| $\beta$ | Measured concentration of gaseous $CO_2$ | $ppm$ |
+| $pCO_2$ | Partial pressure of $CO_2$ ($\beta \times 10^{-6} \times p$) | $atm$ |
+| $Q_{10}^{app}$ | Apparent temperature sensitivity of respiration | $nondimensional$ |
+| $Q_{10}$ | Temperature sensitivity of respiration | $nondimensional$ |
+| $K_H$ | Henry's law constant | $\frac{mol}{L \times atm}$ |
+| $pK_H$ | Decadic logarithm of Henry's law constant | $log(\frac{mol}{L \times atm})$ |
+| $pK_{H, 0}$ | Decadic logarithm of Henry's law constant at standard conditions | $log(\frac{mol}{L \times atm})$ |
+| $CO_2(aq)^*$ | Dissolved $CO_2$ (sum of $H_2CO_3$ and $CO_2(aq)$) | $\frac{mol}{L}$ |
+| $V_s$ | Volume of soil water | $mL$ |
+| $K_1$ | First dissociation constant ($CO_2(aq)^{*} ~ or ~ H_2CO_3 \rightleftarrows H^+ + HCO_3^-$) | $nondimensional$ |
+| $K_2$ | Second dissociation constant ($HCO_3^- \rightleftarrows H^+ + CO_3^{-2}$) | $nondimensional$ |
+| $pK_1$ | Decadic logarithm of $K_1$ | $nondimensional$ |
+| $pK_2$ | Decadic logarithm of $K_2$ | $nondimensional$ |
+| $MBC$ | Microbial biomass carbon | $\frac{\mu mol (C)}{g(DW)}$ |
+| $MMQ$ | Microbial metabolic quotient | $\frac{\mu mol(C-CO_2)}{\mu mol (MBC)}$ |
+| $RQ$ | Respiratory quotient | $\frac{\mu mol(C-CO_2)}{\mu mol (O_2)}$ |
+| $CUE$ | Carbon use efficiency | $nondimensional$ |
+| $\alpha_s$ | Activity of a charged species $s$ | $\frac{mol}{L}$ |
+| $\gamma_s$ | Activity coefficient of a charged species $s$ | $nondimensional$ |
+| $I$ | Ionic strength of soil solution | $\frac{mol}{L}$ |
+| $z_i$ | Charge of ion $i$ | $nondimenional$ |
+| $\alpha_i$ | Effective size of ion $i$ | $A$ |
+| $A$ | Coefficient of an equation relating $I$ to $\gamma_i$ | $0.5072 ~ \frac{L^{0.5}}{mol^{0.5}}$ |
+| $B$ | Coefficient of an equation relating $I$ to $\gamma_i$ | $0.3282 ~ \frac{L^{0.5}}{A \times mol^{0.5}}$ |
+| $EC$ | Electrical conductivity of soil solution | $\frac{mS}{cm}$ |
+| $h_i$ | Parameter defining effect of ion $i$ on $CO_2$ solubility | $\frac{L}{mol}$ |
+| $h_{G,0}$ | $CO_2$ specific constant defining effect of ion $i$ on $CO_2$ solubility | $\frac{L}{mol}$ |
+| $h_{T}$ | $CO_2$ specific constant defining temperature sensitivity of $h_{G,0}$ | $\frac{L}{mol \times K}$ |
+| $C(t)$ | Amount of degradable organic carbon at time $t$ | $\frac{mol}{L}$ |
+| $C_0$ | Amount of degradable organic carbon at time $0$ | $\frac{mol}{L}$ |
+| $k_1$ | Organic carbon specific decay rate constant | $\frac{1}{s}$ |
+| $k_{H1}$ | Specific outgasing rate constant | $\frac{1}{s}$ |
+| $k_{H2}$ | Specific $CO_2$ solubilization rate constant | $\frac{1}{s}$ |
+:::
+
+> 💡 **Note**: All symbols follow standard scientific notation. Units are in SI or common scientific units unless otherwise specified.
