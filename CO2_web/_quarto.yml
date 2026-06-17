@@ -1,9 +1,11 @@
 project:
   type: website
+  output-dir: _site
 
 
 website:
   title: "Lost in solution"
+  site-url: "https://joschwrzr.github.io/CO2_lost_in_solution/"
   navbar:
     left:
       - text: "About"
