@@ -1885,7 +1885,7 @@ Weisenberger, S., and A. Schumpe. 1996. <span>“Estimation of Gas Solubilities 
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/joschwrzr\.github\.io\/CO2_lost_in_solution\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
