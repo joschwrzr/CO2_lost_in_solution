@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "LiS.html",
+    "href": "LiS.html",
+    "title": "\\(CO_2\\) - Lost in Solution",
+    "section": "",
+    "text": "Microbial respiration is a widely measured processes in soil ecology. Yet, accurate quantification of CO₂ fluxes in laboratory incubation studies is often compromised by overlooked physical and chemical factors — particularly the dissolution of CO₂ into soil pore water, which depends on soil alkalinity, salinity, temperature, pressure, and moisture content.\nWhile headspace CO₂ accumulation is routinely used to estimate respiration rates, this approach can lead to significant underestimation — especially in wet, saline, or alkaline soils — because a substantial portion of produced CO₂ dissolves into the aqueous phase and remains undetected.\nTo address this problems, we present this website as a companion tool to our paper. It provides:\n\nA collection of key equations for calculating CO₂ solubility, dissolved inorganic carbon (DIC), and corrected respiration rates under varying conditions.\nPractical guidance on incubation kinetics, including equilibration time, sampling frequency, and vessel design.\nAn interactive calculation tool that adjusts for temperature, pressure, pH, salinity, and soil type — delivering corrected CO₂ flux estimates with minimal user input.\n\nThis resource is designed to help you achieve more reliable, reproducible, and biologically meaningful measurements of soil carbon flux."
+  }
+]
